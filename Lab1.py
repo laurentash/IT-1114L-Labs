@@ -1,8 +1,5 @@
 # Program Name: Lab1.py 
 # Course: IT1114L - Lab 1 Flooring
-# Name: lauren shockley
-# Assignment Number: Lab 1
-# Due Date: 08/21/23
 # Purpose: This program takes a total of three user inputs with directions and outputs calculated float numbers that relate to the total square footage and -
     # replacement cost of the inputy room dimensions. 
 
